@@ -14,10 +14,4 @@ public class Calculator {
             double result =  num1/num2;
             return result;
     }
-
-    }
-    public static double divide(double numA, double numB){
-         return numA/numB;
-        //division
-    }
 }
