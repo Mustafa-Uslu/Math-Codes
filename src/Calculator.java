@@ -10,4 +10,7 @@ public class Calculator {
     public static double multiply(double numA, double numB){
          return numA*numB;
     }
+    public static double divide(double numA, double numB){
+         return numA/numB;
+    }
 }
