@@ -15,4 +15,7 @@ public class Calculator {
     }
 
     }
+    public static double divide(double numA, double numB){
+         return numA/numB;
+    }
 }
