@@ -10,7 +10,7 @@ import java.lang.*;
             int number;
             int i = 0;
             int sum=0;
-            int[] divisorArray= new int[900];
+            int[] divisorArray= new int[800];
             switch(option){
                 case 1:
                     System.out.println("Enter the number");
